@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: YCN s2member to ConvertKit (Form List ID:9865 Tag ID:7068)
- * Plugin URI:  https://www.google.com
- * Description: Fancy words here about what this thing does
+ * Plugin Name: YCN s2member to ConvertKit (Form List ID:<FormId> Tag ID:<TagId>)
+ * Plugin URI:  https://reedportal.com
+ * Description: YCN s2member to ConvertKit plugin that will register users to a specific form list in your ConvertKit account based on the parameters set in the plugin file.
  * Version:     1.0.0
  * Author:      Bill Reed
  * Author URI:  http://reedportal.com
